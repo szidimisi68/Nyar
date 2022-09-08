@@ -1,20 +1,78 @@
 body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(images/hatter.png);
+    background-size: cover;
+    margin-bottom: 10px;
+}
+
+#alap{
+    width: 1100px;
+    margin: -10px auto;
+    padding: 0px 1px 5px 2px;
+    background-color: rgba(98, 218, 255, 60%);
+}
+
+#keret{
+    border: 2px solid red;
+}
+
+#cim {
     text-align: center;
-}
-#kep2,#kep1 {
-    width: 350px;
-    height: 200px;
+    font-size: 100px;
+    padding: 20px 0px;
 }
 
-#alap {
-    width: 1000px;
-    margin: auto;
+#terkep{
+    text-align: center;
+    margin-top: 20px;
 }
 
-#kepek {
-    width: 250px;
+#balaton{
+    width: 900px;
+
+}
+
+#alcim{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 50px;
+    border-top: 5px solid rgb(0, 89, 255);
+}
+
+#cimke{
+    font-size: 40px;
+    margin-top: 75px;
+    margin-left: 20px;
+}
+
+.szoveg{
+    font-size: 25px;
+    margin: 25px 20px 0px 20px;
+    text-align: justify;
+}
+
+#illusztracio{
+    width: 400px;
     float: right;
+    margin: 25px;
 }
-#szoveg1 {
-    width: 600px;
+
+#lab{
+    height: 25px;
+    background-color: rgb(51, 170, 250);
+    margin: 100px -1px 0px -2px;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 3px;
+}
+
+#fured:hover{
+    height: 90px;
+    margin: 80px 0px 0px -310px;
+}
+
+#lelle:hover{
+    height: 90px;
+    margin: 330px 0px 0px -485px;
 }
