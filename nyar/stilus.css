@@ -61,7 +61,7 @@ body{
 #lab{
     height: 25px;
     background-color: rgb(51, 170, 250);
-    margin: 100px -1px 0px -2px;
+    margin: 100px -1px -10px -2px;
     font-size: 22px;
     text-align: center;
     padding-top: 3px;
@@ -73,6 +73,6 @@ body{
 }
 
 #lelle:hover{
-    height: 90px;
+        height: 90px;
     margin: 330px 0px 0px -485px;
 }
